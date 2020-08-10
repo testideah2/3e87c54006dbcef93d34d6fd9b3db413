@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "bbastau.online"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. bbastau.online</name>
+    <name>ТЕСТ. Biznes Bastau</name>
 
     <description>
         Бизнес Бастау - жаңадан кәсіп бастаушылардан бастап, кәсіби маманға дейін арналған оқу материалдарының ең үлкен жиынтығы! Маркетинг, Психология, Видео түсіру немесе тағыда басқа мыңдаған аспектілері сізге негіздерді білуге, дағдыларыңызды нақтылауға немесе жай ғана соңғы тенденцияларды ұстануға көмектеседі.
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#F7F8F9" />
+    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
